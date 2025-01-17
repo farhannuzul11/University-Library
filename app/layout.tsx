@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   description: "BookWise is a book borrowing university library website.",
 };
 
-const RootLayout = ({ children }:{ children: ReactNode}) => {
+const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <html lang="en">
       <body
